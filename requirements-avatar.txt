@@ -1,0 +1,4 @@
+# MuseTalk is intentionally installed separately.
+# Follow the upstream MuseTalk repository instructions for its pinned
+# PyTorch/CUDA/MMCV/model-weight requirements.
+# This project communicates with MuseTalk through a subprocess wrapper.
